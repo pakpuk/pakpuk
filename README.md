@@ -49,13 +49,11 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=pakpuk&show_icons=true&theme=radical&hide_border=true" height="150" /></td>
-    <td width="40"></td> <!-- spacer column -->
-    <td><img src="https://github-readme-streak-stats.herokuapp.com?user=pakpuk&theme=radical&hide_border=true" height="150"/></td>
-  </tr>
-</table>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=pakpuk&show_icons=true&theme=radical&hide_border=true" height="150" style="display: inline-block; vertical-align: middle;" />
+  <span style="display: inline-block; width: 40px;"></span>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pakpuk&theme=radical&hide_border=true" height="150" style="display: inline-block; vertical-align: middle;" />
+</div>
 
 ---
 
