@@ -47,18 +47,14 @@ I’m a developer who values simplicity, readability, and delivering real value 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pakpuk&show_icons=true&theme=radical&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pakpuk&theme=radical&hide_border=true" height="150"/>
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=pakpuk&show_icons=true&theme=radical&hide_border=true" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=pakpuk&theme=radical&hide_border=true" height="150"/>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pakpuk&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=15" alt="Trophies" />
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=pakpuk&theme=gruvbox&no-frame=true&column=6&margin-w=10&margin-h=15" alt="Trophies" />
 
 ---
 
@@ -68,8 +64,3 @@ I’m a developer who values simplicity, readability, and delivering real value 
 - 💻 Portfolio: Coming soon (but trust me, it’ll be 🔥)  
 - 📫 Email: yourmail@example.com  
 - 💬 Discord: Ghaith#1234
-
----
-
-> “A good developer writes clean code. A great one builds clean experiences.”  
-> – *Probably Ghaith, probably today.*
