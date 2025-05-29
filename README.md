@@ -49,7 +49,7 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; justify-content: center; gap: 40px; padding: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=pakpuk&show_icons=true&theme=radical&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pakpuk&theme=radical&hide_border=true" height="150"/>
 </div>
