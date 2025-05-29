@@ -10,7 +10,9 @@
 ---
 
 ## 🧠 About Me
-I’m a developer who values simplicity, readability, and delivering real value with code. Whether I'm building with **Flutter**, testing APIs in **Postman**, or designing slick UI on **Figma**, I aim for that sweet spot between *clean code* and *smart product decisions*.
+🧩 I love solving complex problems with smart, maintainable code.  
+🎯 Focused on building smooth user experiences with pixel-perfect UIs.  
+🔥 Forever learning — because great developers never stop leveling up.
 
 ---
 
@@ -47,8 +49,10 @@ I’m a developer who values simplicity, readability, and delivering real value 
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=pakpuk&show_icons=true&theme=radical&hide_border=true" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=pakpuk&theme=radical&hide_border=true" height="150"/>
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=pakpuk&show_icons=true&theme=radical&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pakpuk&theme=radical&hide_border=true" height="150"/>
+</div>
 
 ---
 
@@ -58,9 +62,6 @@ I’m a developer who values simplicity, readability, and delivering real value 
 
 ---
 
-## 🔗 Connect With Me
+## 🔗Contact Me
+- 📫 Email: ghaith19.work@gmail.com  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourusername)  
-- 💻 Portfolio: Coming soon (but trust me, it’ll be 🔥)  
-- 📫 Email: yourmail@example.com  
-- 💬 Discord: Ghaith#1234
