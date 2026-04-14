@@ -4,15 +4,17 @@
 </p>
 
 # 👋 Hi, I’m Ghaith  
-🚀 Developer | Creative Thinker | Lover of Clean Code & Smart Solutions  
-🎮 Hardcore Dark Souls Fan | 💡 Constant Learner  
+🚀 Software Developer & UI/UX Enthusiast  
+💡 I build scalable apps, clean interfaces, and meaningful digital experiences  
+🎯 Focused on performance, simplicity, and real-world impact  
 
 ---
 
 ## 🧠 About Me
-🧩 I love solving complex problems with smart, maintainable code.  
-🎯 Focused on building smooth user experiences with pixel-perfect UIs.  
-🔥 Forever learning — because great developers never stop leveling up.
+🧩 I enjoy turning complex ideas into simple, maintainable solutions.  
+🎨 Strong attention to UI/UX — I care about how things *feel*, not just how they work.  
+⚡ Constantly improving my skills in mobile, backend, and system design.  
+🔥 Always learning, building, and pushing toward the next level.  
 
 ---
 
@@ -25,6 +27,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="28"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="28"/>
 </p>
 
 ### ⚙️ Frameworks & Tools  
@@ -34,6 +39,8 @@
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="28"/>
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" alt="Laravel" width="28"/>
   <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="Supabase" width="28"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="28"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="28"/>
 </p>
 
 ### 🎨 Design & Utilities  
@@ -44,7 +51,6 @@
   <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="Hive" width="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="28"/>
 </p>
-
 ---
 
 ## 📊 GitHub Stats
