@@ -54,7 +54,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="28"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="28"/>
-  <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="28"/>
 </p>
 
 ## 📊 GitHub Stats
